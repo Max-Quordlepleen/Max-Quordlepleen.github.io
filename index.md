@@ -9,3 +9,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 > Stet clita kasd gubergren, no sea takimata
 > sanctus est Lorem ipsum dolor sit amet.
+
+<img src="/images/emoji.png"/>
